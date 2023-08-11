@@ -1,4 +1,4 @@
-#[**后台基于dcat-admin**]#
+#后台基于dcat-admin#
 
 演示站点：[bot.0678.link/admin/]([url](https://bot.0678.link/admin/)) 账号：smcs 密码：sm067
 
