@@ -22,7 +22,7 @@
 
 输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
 
-咨询 [@SM067]([url](https://t.me/SM067)) 
+咨询 [@SM067](https://t.me/SM067)
 
 **赞赏**(url)
 trc20：TQc9jbTvE8mvsUivbW4NYLKFA588888888
