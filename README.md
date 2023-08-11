@@ -24,5 +24,5 @@
 
 咨询 [@SM067](https://t.me/SM067)
 
-**赞赏**(url)
-trc20：TQc9jbTvE8mvsUivbW4NYLKFA588888888
+**赞赏**
+Trc20：TQc9jbTvE8mvsUivbW4NYLKFA588888888
