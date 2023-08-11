@@ -1,8 +1,15 @@
 **后台基于dcat-admin**
 
-演示站点：[bot.0678.link/admin/]([url](https://bot.0678.link/admin/)) 账号：smcs 密码：sm067
+演示站点：[bot.0678.link/admin/]([url](https://bot.0678.link/admin/)) 账号：smcs 密码：sm067          
 
 演示群组：[@SMUSDTHB](https://t.me/SMUSDTHB)
+
+**部署教程：**
+
+宝塔需要装php8.0
+需要装Laravel
+在进行一系列配置
+小白最好不要尝试 
 
 **机器人玩法说明：**
 
@@ -20,9 +27,13 @@
 
 向 @BotFather 发送指令 /newbot ，申请建立一个新的机器人。
 
-输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1287833603:AAGmx9hQq6ViT3km0_77z8psBGqUKfdpSHY 是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
+输入用户名后， 机器人就申请成功了。 如果你只是要一个可以用的机器人， 到这步就够了。 其中的 bot token: 1234567890:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  是最重要的部分， 不要让人看到， 否则别人可以控制你的机器人。
 
-咨询 [@SM067](https://t.me/SM067)
+有偿部署咨询 [@SM067](https://t.me/SM067)
+
+**注意**
+此源码已经不再进行修复 多少有点bug 有能力的可自行修复 
+如需最新源码请联系 [@SM067](https://t.me/SM067)
 
 **赞赏**
 Trc20：TQc9jbTvE8mvsUivbW4NYLKFA588888888
